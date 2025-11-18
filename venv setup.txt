@@ -1,0 +1,10 @@
+for create -->  python -m venv {environment name}
+for active -->  Scripts\activate
+
+
+***note --> 
+	if PowerShell doesn't work then open it on administrator mode and run command --> Set-ExecutionPolicy RemoteSigned
+	when changing the device make sure the correct Python version
+	go to "pyvenv.cfg" file and change the Python exact location
+
+	
